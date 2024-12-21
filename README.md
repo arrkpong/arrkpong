@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 ## 📫 How to reach me
 - Email: arrkpong1@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com)
-- Twitter: [Your Twitter Profile](https://twitter.com)
 
 ## 😄 Pronouns
 He/Him
