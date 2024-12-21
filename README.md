@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 ## 👀 I’m interested in
 - Web Development
 - Machine Learning
-- Blockchain Technology
 - Open Source Projects
 - Cybersecurity
 
@@ -20,7 +19,6 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 - Open source projects
 - Innovative web applications
 - Machine learning models
-- Blockchain development
 
 ## 📫 How to reach me
 - Email: arrkpong1@gmail.com
