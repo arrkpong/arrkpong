@@ -1,24 +1,23 @@
-# arrkpong/README.md
 # 👋 Hi, I’m @arrkpong
 
-Welcome to my GitHub profile! I'm passionate about technology and constantly exploring new areas of interest.
+Welcome to my GitHub profile! I'm a passionate full-stack developer with a knack for creating dynamic and engaging web applications. I enjoy learning new technologies and building innovative projects.
 
 ## 👀 I’m interested in
-- Web Development
+- Web Development (Django, React, Next.js)
 - Machine Learning
 - Open Source Projects
-- Cybersecurity
+- Discord Bot Development
 
 ## 🌱 I’m currently learning
 - Advanced Django techniques
+- Building scalable React and Next.js applications
 - Data Science with Python
-- Ethical Hacking
 - Smart Contracts with Solidity
 
 ## 💞️ I’m looking to collaborate on
 - Open source projects
 - Innovative web applications
-- Machine learning models
+- Discord bots and integrations
 
 ## 📫 How to reach me
 - Email: arrkpong1@gmail.com
@@ -28,13 +27,8 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 He/Him
 
 ## ⚡ Fun fact
-I love solving Rubik's cubes and can solve one in under a minute!
+When I’m in the zone, I can play games, binge-watch series, or code all night long without a break!
 
 ---
 
-Feel free to explore my repositories and reach out if you're interested in collaborating or just want to chat about technology. Let's build something amazing together!
-
-<!---
-arrkpong/arrkpong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to explore my repositories and reach out if you're interested in collaborating or chatting about web development, machine learning, or gaming. Let's create something amazing together!
