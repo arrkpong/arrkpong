@@ -29,8 +29,8 @@ Full-stack developer focused on building production-ready, data-driven web appli
 
 ## GitHub Dashboard
 
-![Arrkpong's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrkpong&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arrkpong&layout=compact&langs_count=8&hide=css,scss,html)
+![Arrkpong's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrkpong&show_icons=true&hide_title=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arrkpong&layout=compact&langs_count=8&hide=css,scss,html&cache_seconds=86400)
 
 ## Let's Connect
 - Email: arrkpong1@gmail.com
